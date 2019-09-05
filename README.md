@@ -2,6 +2,7 @@
 # Software Developer Carrer
 
 **Introduction to Computer Science**
+
 https://www.youtube.com/playlist?list=PLRqGANMTmslTVwZA-H7aDiiNACau3yhVH
 
 **What know**
