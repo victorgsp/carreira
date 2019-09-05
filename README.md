@@ -17,9 +17,9 @@
 **Software Developer ROADMAP**
 
  - **Web Developer ROADMAP**
- https://github.com/kamranahmedse/developer-roadmap
+  - https://github.com/kamranahmedse/developer-roadmap
  - **Developer ROADMAP (in progress)**
- https://github.com/rodrigokono/comecandodozero
+  - https://github.com/rodrigokono/comecandodozero
 
 **Design Patterns**
 - https://github.com/DovAmir/awesome-design-patterns
