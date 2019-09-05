@@ -3,6 +3,7 @@
 
 **Introduction to Computer Science**
 - https://www.youtube.com/playlist?list=PLRqGANMTmslTVwZA-H7aDiiNACau3yhVH
+
 **What know**
 - https://github.com/mtdvio/every-programmer-should-know
 - https://github.com/charlax/professional-programming
