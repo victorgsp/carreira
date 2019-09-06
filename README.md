@@ -27,3 +27,13 @@
 **Best Practices for Writing Super Maintainable Code**
 - https://github.com/EduardoPires/SOLID
 - https://github.com/felipe-augusto/clean-code-javascript
+
+
+**Interview guides**
+- C++ (https://www.toptal.com/c-plus-plus#hiring-guide)
+- C# (https://www.toptal.com/c-sharp#hiring-guide)
+- JavaScript (https://www.toptal.com/javascript#hiring-guide)
+- Python (https://www.toptal.com/python#hiring-guide)
+- PHP (https://www.toptal.com/php#hiring-guide)
+- Ruby (https://www.toptal.com/ruby#hiring-guide)
+- Java (https://www.toptal.com/java#hiring-guide)
