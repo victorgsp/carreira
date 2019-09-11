@@ -37,3 +37,7 @@
 - PHP (https://www.toptal.com/php#hiring-guide)
 - Ruby (https://www.toptal.com/ruby#hiring-guide)
 - Java (https://www.toptal.com/java#hiring-guide)
+
+
+**Extra contents**
+- How to be a good senior developer (https://medium.com/better-programming/how-to-be-a-good-senior-developer-958948e02ada)
